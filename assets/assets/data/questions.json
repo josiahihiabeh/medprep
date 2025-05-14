@@ -1,0 +1,183 @@
+[
+    {
+      "id": "phy001",
+      "subject": "Physiology",
+      "topic": "General Physiology",
+      "difficulty": "easy",
+      "type": "multiple_choice_single_answer",
+      "question": "ECF volume is determined by:",
+      "tags": ["ECF", "sodium balance", "body fluids"],
+      "relatedConcept": "Tonicity and volume regulation",
+      "reference": "Guyton and Hall Physiology, Chapter 4",
+      "timeLimitSeconds": 30,
+      "options": [
+        {
+          "label": "A",
+          "text": "plasma [Na]",
+          "isCorrect": false,
+          "hint": "Plasma sodium concentration tells us about water movement, not total ECF volume.",
+          "explanation": "While plasma [Na+] affects osmolality, it doesn't determine ECF volume directly.",
+          "kidExplanation": "This is like knowing how salty your soup is, but not how much soup is in the pot."
+        },
+        {
+          "label": "B",
+          "text": "plasma protein concentration",
+          "isCorrect": false,
+          "hint": "Plasma proteins mostly affect oncotic pressure, not the volume of the ECF.",
+          "explanation": "Proteins pull water but don’t define total volume of fluid in the ECF.",
+          "kidExplanation": "Proteins are like sponges inside a water bag—they pull water, but they don’t decide how much water is there."
+        },
+        {
+          "label": "C",
+          "text": "the amount of sodium in the ECF",
+          "isCorrect": true,
+          "hint": "Think total sodium, not just concentration.",
+          "explanation": "The ECF volume is determined by the total amount of sodium in that compartment.",
+          "kidExplanation": "If you put a lot of salt in water, the water stays with the salt. More salt = more water = more volume.",
+          "advancedExplanation": "Total body sodium controls ECF volume through renal regulation via hormones like aldosterone, which adjusts sodium retention and thus water retention."
+        }
+      ]
+    },
+    {
+      "id": "phy002",
+      "subject": "Physiology",
+      "topic": "General Physiology",
+      "difficulty": "easy",
+      "type": "multiple_choice_single_answer",
+      "question": "The chief determinant of plasma osmolality is:",
+      "tags": ["osmolality", "sodium", "plasma"],
+      "relatedConcept": "Osmoregulation",
+      "reference": "Guyton and Hall Physiology, Chapter 5",
+      "timeLimitSeconds": 30,
+      "options": [
+        {
+          "label": "A",
+          "text": "plasma [Na]",
+          "isCorrect": true,
+          "hint": "Think about which substance is most abundant in the plasma.",
+          "explanation": "Sodium is the main ion in plasma and strongly influences osmolality.",
+          "kidExplanation": "Sodium is like the biggest player in the game—it controls most of the water movement in your blood.",
+          "advancedExplanation": "Plasma osmolality is calculated as 2[Na+] + [glucose]/18 + [BUN]/2.8; sodium contributes the most due to its high extracellular concentration and osmotic activity."
+        },
+        {
+          "label": "B",
+          "text": "plasma [glucose]",
+          "isCorrect": false,
+          "hint": "Glucose contributes, but it’s usually tightly controlled.",
+          "explanation": "Glucose contributes to osmolality but not as significantly unless levels are abnormally high.",
+          "kidExplanation": "Sugar is part of the mix, but it’s like a small spoon in a big soup pot."
+        },
+        {
+          "label": "C",
+          "text": "blood [urea]",
+          "isCorrect": false,
+          "hint": "Urea crosses membranes easily, so it doesn't have a strong water-pulling effect.",
+          "explanation": "Urea affects total osmolality but is ineffective in tonicity due to rapid diffusion.",
+          "kidExplanation": "Urea slips through walls easily—like a sneaky kid, so it can’t pull water very well."
+        },
+        {
+          "label": "D",
+          "text": "plasma [albumin]",
+          "isCorrect": false,
+          "hint": "Albumin affects oncotic pressure more than osmolality.",
+          "explanation": "Albumin keeps fluid in blood vessels but isn't the key player for osmolality.",
+          "kidExplanation": "Albumin is like a bodyguard that holds water in place, but it’s not the water boss."
+        }
+      ]
+    },
+    {
+      "id": "phy003",
+      "subject": "Physiology",
+      "topic": "General Physiology",
+      "difficulty": "medium",
+      "type": "multiple_choice_single_answer",
+      "question": "Which of the following best describes facilitated diffusion?",
+      "tags": ["membrane transport", "facilitated diffusion"],
+      "relatedConcept": "Carrier-mediated transport",
+      "reference": "Ganong's Review of Medical Physiology, Chapter 1",
+      "timeLimitSeconds": 45,
+      "options": [
+        {
+          "label": "A",
+          "text": "Movement of substances against a concentration gradient",
+          "isCorrect": false,
+          "hint": "This requires energy input.",
+          "explanation": "That describes active transport, not facilitated diffusion.",
+          "kidExplanation": "This is like pushing a bicycle uphill—it takes effort!"
+        },
+        {
+          "label": "B",
+          "text": "Passive movement that requires a carrier protein",
+          "isCorrect": true,
+          "hint": "Think of a door that opens only when a helper is available.",
+          "explanation": "Facilitated diffusion is passive (no energy needed) but uses a protein channel or carrier.",
+          "kidExplanation": "It’s like walking into a party only when the bouncer lets you in.",
+          "advancedExplanation": "Facilitated diffusion occurs down a concentration gradient and exhibits saturation kinetics due to the limited number of transporters."
+        },
+        {
+          "label": "C",
+          "text": "Bulk movement of fluids via endocytosis",
+          "isCorrect": false,
+          "hint": "That’s a vesicle-based process.",
+          "explanation": "Endocytosis involves engulfing particles, which is different from diffusion.",
+          "kidExplanation": "This is more like swallowing than walking through a door."
+        },
+        {
+          "label": "D",
+          "text": "Simple diffusion through lipid bilayer",
+          "isCorrect": false,
+          "hint": "That doesn’t involve transport proteins.",
+          "explanation": "Simple diffusion doesn’t need carriers; facilitated does.",
+          "kidExplanation": "This is like air passing through an open window—no help needed."
+        }
+      ]
+    },
+    {
+      "id": "phy004",
+      "subject": "Physiology",
+      "topic": "General Physiology",
+      "difficulty": "easy",
+      "type": "multiple_choice_single_answer",
+      "question": "Which ion has the highest concentration inside the cell?",
+      "tags": ["intracellular ions", "cell physiology"],
+      "relatedConcept": "Ion distribution across cell membranes",
+      "reference": "Guyton and Hall, Chapter 5",
+      "timeLimitSeconds": 30,
+      "options": [
+        {
+          "label": "A",
+          "text": "Sodium (Na⁺)",
+          "isCorrect": false,
+          "hint": "Sodium likes to stay outside the cell.",
+          "explanation": "Na⁺ is mostly extracellular.",
+          "kidExplanation": "Sodium is like a visitor that stays outside the house."
+        },
+        {
+          "label": "B",
+          "text": "Chloride (Cl⁻)",
+          "isCorrect": false,
+          "hint": "Cl⁻ follows Na⁺ and is mainly outside.",
+          "explanation": "Chloride is predominantly extracellular and often follows sodium.",
+          "kidExplanation": "Chloride is like sodium’s sidekick—they hang out together outside."
+        },
+        {
+          "label": "C",
+          "text": "Potassium (K⁺)",
+          "isCorrect": true,
+          "hint": "This is the main intracellular cation.",
+          "explanation": "K⁺ is highest inside cells and essential for resting membrane potential.",
+          "kidExplanation": "Potassium is like the king who lives inside the castle (cell).",
+          "advancedExplanation": "High intracellular K⁺ is maintained by Na⁺/K⁺-ATPase pumps which actively export Na⁺ and import K⁺."
+        },
+        {
+          "label": "D",
+          "text": "Calcium (Ca²⁺)",
+          "isCorrect": false,
+          "hint": "Calcium is usually stored in organelles or kept outside.",
+          "explanation": "Intracellular Ca²⁺ is low and rises only briefly during signaling events.",
+          "kidExplanation": "Calcium hides in the closet and only comes out for special missions."
+        }
+      ]
+    }
+  ]
+  
