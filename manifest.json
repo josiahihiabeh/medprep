@@ -1,6 +1,6 @@
 {
-    "name": "rekall",
-    "short_name": "rekall",
+    "name": "medprep",
+    "short_name": "medprep",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
