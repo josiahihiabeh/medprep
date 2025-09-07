@@ -1,0 +1,33 @@
+[
+    {
+      "id": "wb_001",
+      "term": "Homeostasis",
+      "correct_definition": "Homeostasis is the ability of the body to maintain a stable internal environment despite changes in external conditions.",
+      "scattered_words": [
+        "Homeostasis", "is", "the", "ability", "of", "the", "body", "to", "maintain", "a", "stable", "internal", "environment",
+        "despite", "changes", "in", "external", "conditions."
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "wb_002",
+      "term": "Action Potential",
+      "correct_definition": "An action potential is a rapid rise and fall in membrane potential that transmits a signal along a neuron.",
+      "scattered_words": [
+        "An", "action", "potential", "is", "a", "rapid", "rise", "and", "fall", "in", "membrane", "potential",
+        "that", "transmits", "a", "signal", "along", "a", "neuron."
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "wb_003",
+      "term": "Osmosis",
+      "correct_definition": "Osmosis is the movement of water molecules through a semi-permeable membrane from a region of low solute concentration to a region of high solute concentration.",
+      "scattered_words": [
+        "Osmosis", "is", "the", "movement", "of", "water", "molecules", "through", "a", "semi-permeable", "membrane",
+        "from", "a", "region", "of", "low", "solute", "concentration", "to", "a", "region", "of", "high", "solute", "concentration."
+      ],
+      "difficulty": "hard"
+    }
+  ]
+  

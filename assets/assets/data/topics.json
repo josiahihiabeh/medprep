@@ -1,0 +1,38 @@
+[
+    {
+      "id": "physiology_general",
+      "subject": "Physiology",
+      "topic": "General Physiology",
+      "description": "Covers fluid compartments, osmolality, transport mechanisms, and basic principles.",
+      "difficultyLevels": ["easy", "medium", "hard"]
+    },
+    {
+      "id": "physiology_neuro",
+      "subject": "Physiology",
+      "topic": "Neurophysiology",
+      "description": "Covers action potentials, synapses, and sensory systems.",
+      "difficultyLevels": ["easy", "medium", "hard"]
+    },
+    {
+      "id": "anatomy_upper_limb",
+      "subject": "Anatomy",
+      "topic": "Upper Limb",
+      "description": "Bones, muscles, nerves, and vessels of the upper limb.",
+      "difficultyLevels": ["easy", "medium", "hard"]
+    },
+    {
+      "id": "pathology_inflammation",
+      "subject": "Pathology",
+      "topic": "Inflammation",
+      "description": "Acute and chronic inflammation, mediators, outcomes.",
+      "difficultyLevels": ["easy", "medium", "hard"]
+    },
+    {
+      "id": "usmle_mixed_block1",
+      "subject": "USMLE",
+      "topic": "Mixed Block 1",
+      "description": "Integrated USMLE-style questions across systems.",
+      "difficultyLevels": ["medium", "hard"]
+    }
+  ]
+  

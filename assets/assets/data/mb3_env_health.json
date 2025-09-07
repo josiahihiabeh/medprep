@@ -1,0 +1,499 @@
+[
+  {
+    "id": "env001",
+    "prepType": "MB3 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "Which of the following is not a component of the environment?",
+    "tags": ["environment", "components", "basics"],
+    "relatedConcept": "Environmental health components",
+    "reference": "Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "2025",
+    "sourceType": "lecture notes",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "Physical",
+        "isCorrect": false,
+        "hint": "Physical includes air, land, and water.",
+        "explanation": "Physical environment includes non-living components like climate, soil, and water.",
+        "kidExplanation": "Physical means things we can touch, like air, water, and land.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "B",
+        "text": "Biological",
+        "isCorrect": false,
+        "hint": "This includes plants and microbes.",
+        "explanation": "Biological environment covers living things like bacteria, plants, and animals.",
+        "kidExplanation": "Biological means living things—plants, animals, and germs.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "C",
+        "text": "Spiritual",
+        "isCorrect": true,
+        "hint": "This is not considered part of environmental health.",
+        "explanation": "Spiritual factors are not included in scientific definitions of the environment.",
+        "kidExplanation": "Spiritual means beliefs and religion, not part of the scientific environment.",
+        "advancedExplanation": "While spirituality may affect health behavior, it is not classified under environmental components (physical, biological, social).",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "D",
+        "text": "Social",
+        "isCorrect": false,
+        "hint": "Social includes customs and laws.",
+        "explanation": "Social environment refers to human interactions, culture, laws, and institutions.",
+        "kidExplanation": "Social means how people live and behave together.",
+        "explanationLevel": "basic"
+      }
+    ]
+  },
+  {
+    "id": "env002",
+    "prepType": "MB3 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "Environmental health primarily aims to:",
+    "tags": ["environmental health", "objectives", "disease prevention"],
+    "relatedConcept": "Goals of environmental health",
+    "reference": "Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "2025",
+    "sourceType": "lecture notes",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "Increase taxes for waste disposal",
+        "isCorrect": false,
+        "hint": "Taxes are not the main focus.",
+        "explanation": "While finance may be linked, environmental health isn’t about taxation.",
+        "kidExplanation": "It’s not about paying money.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "B",
+        "text": "Prevent diseases and promote health",
+        "isCorrect": true,
+        "hint": "Think about the main goal of public health.",
+        "explanation": "The central aim of environmental health is reducing risks from surroundings to prevent diseases and improve quality of life.",
+        "kidExplanation": "It helps people stay healthy by keeping water, air, and places clean.",
+        "advancedExplanation": "Environmental health interventions control disease spread by addressing sanitation, water quality, waste management, and pollution.",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "C",
+        "text": "Encourage industrial growth",
+        "isCorrect": false,
+        "hint": "Industries may affect environment negatively.",
+        "explanation": "Industrial growth is economic, not the direct aim of environmental health.",
+        "kidExplanation": "Building more factories is not its job.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "D",
+        "text": "Reduce housing projects",
+        "isCorrect": false,
+        "hint": "Environmental health encourages better housing, not less.",
+        "explanation": "Good housing is part of environmental health, so reducing it goes against the aim.",
+        "kidExplanation": "It doesn’t want fewer houses—it wants better houses.",
+        "explanationLevel": "basic"
+      }
+    ]
+  },
+  {
+    "id": "env001",
+    "prepType": "MB3 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "Which of the following is not a component of the environment?",
+    "tags": ["environment", "components", "basics"],
+    "relatedConcept": "Environmental health components",
+    "reference": "Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "2025",
+    "sourceType": "lecture notes",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "Physical",
+        "isCorrect": false,
+        "hint": "Physical includes air, land, and water.",
+        "explanation": "Physical environment includes non-living components like climate, soil, and water.",
+        "kidExplanation": "Physical means things we can touch, like air, water, and land.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "B",
+        "text": "Biological",
+        "isCorrect": false,
+        "hint": "This includes plants and microbes.",
+        "explanation": "Biological environment covers living things like bacteria, plants, and animals.",
+        "kidExplanation": "Biological means living things—plants, animals, and germs.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "C",
+        "text": "Spiritual",
+        "isCorrect": true,
+        "hint": "This is not considered part of environmental health.",
+        "explanation": "Spiritual factors are not included in scientific definitions of the environment.",
+        "kidExplanation": "Spiritual means beliefs and religion, not part of the scientific environment.",
+        "advancedExplanation": "While spirituality may affect health behavior, it is not classified under environmental components (physical, biological, social).",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "D",
+        "text": "Social",
+        "isCorrect": false,
+        "hint": "Social includes customs and laws.",
+        "explanation": "Social environment refers to human interactions, culture, laws, and institutions.",
+        "kidExplanation": "Social means how people live and behave together.",
+        "explanationLevel": "basic"
+      }
+    ]
+  },
+  {
+    "id": "env002",
+    "prepType": "MB3 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "Environmental health primarily aims to:",
+    "tags": ["environmental health", "objectives", "disease prevention"],
+    "relatedConcept": "Goals of environmental health",
+    "reference": "Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "2025",
+    "sourceType": "lecture notes",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "Increase taxes for waste disposal",
+        "isCorrect": false,
+        "hint": "Taxes are not the main focus.",
+        "explanation": "While finance may be linked, environmental health isn’t about taxation.",
+        "kidExplanation": "It’s not about paying money.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "B",
+        "text": "Prevent diseases and promote health",
+        "isCorrect": true,
+        "hint": "Think about the main goal of public health.",
+        "explanation": "The central aim of environmental health is reducing risks from surroundings to prevent diseases and improve quality of life.",
+        "kidExplanation": "It helps people stay healthy by keeping water, air, and places clean.",
+        "advancedExplanation": "Environmental health interventions control disease spread by addressing sanitation, water quality, waste management, and pollution.",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "C",
+        "text": "Encourage industrial growth",
+        "isCorrect": false,
+        "hint": "Industries may affect environment negatively.",
+        "explanation": "Industrial growth is economic, not the direct aim of environmental health.",
+        "kidExplanation": "Building more factories is not its job.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "D",
+        "text": "Reduce housing projects",
+        "isCorrect": false,
+        "hint": "Environmental health encourages better housing, not less.",
+        "explanation": "Good housing is part of environmental health, so reducing it goes against the aim.",
+        "kidExplanation": "It doesn’t want fewer houses—it wants better houses.",
+        "explanationLevel": "basic"
+      }
+    ]
+  },
+  {
+    "id": "env003",
+    "prepType": "MB3 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "Which of these is a biological environmental hazard?",
+    "tags": ["hazards", "biological", "environment"],
+    "relatedConcept": "Classification of environmental hazards",
+    "reference": "Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "2025",
+    "sourceType": "lecture notes",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "Earthquake",
+        "isCorrect": false,
+        "hint": "Think natural disasters.",
+        "explanation": "Earthquake is a physical hazard, not biological.",
+        "kidExplanation": "An earthquake shakes the ground, but it’s not alive.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "B",
+        "text": "Bacteria",
+        "isCorrect": true,
+        "hint": "Living organisms cause biological hazards.",
+        "explanation": "Bacteria are living disease-causing organisms classified as biological hazards.",
+        "kidExplanation": "Bacteria are tiny living things that can make people sick.",
+        "advancedExplanation": "Biological hazards include bacteria, viruses, parasites, and fungi that can spread diseases.",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "C",
+        "text": "Noise",
+        "isCorrect": false,
+        "hint": "Noise is not alive.",
+        "explanation": "Noise is a physical hazard, not biological.",
+        "kidExplanation": "Noise is sound, not a living thing.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "D",
+        "text": "Smoke",
+        "isCorrect": false,
+        "hint": "Smoke is chemical.",
+        "explanation": "Smoke is a chemical/physical pollutant, not a biological hazard.",
+        "kidExplanation": "Smoke comes from fire, not from germs.",
+        "explanationLevel": "basic"
+      }
+    ]
+  },
+  {
+    "id": "env004",
+    "prepType": "MB1 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "Who defined health as a state of complete physical, mental and social well-being?",
+    "tags": ["WHO definition", "health concepts"],
+    "relatedConcept": "Definition of health",
+    "reference": "WHO, 1948; Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "1948",
+    "sourceType": "WHO report",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "CDC",
+        "isCorrect": false,
+        "hint": "Think international health body.",
+        "explanation": "The CDC focuses on disease control in the U.S., not the global definition.",
+        "kidExplanation": "CDC is in America, but they didn’t make the worldwide definition.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "B",
+        "text": "WHO",
+        "isCorrect": true,
+        "hint": "This organization works worldwide.",
+        "explanation": "The WHO gave the widely accepted definition of health in 1948.",
+        "kidExplanation": "WHO is the big health team for the whole world. They made the famous definition.",
+        "advancedExplanation": "The WHO’s definition goes beyond absence of disease, emphasizing well-being in multiple dimensions.",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "C",
+        "text": "UNDP",
+        "isCorrect": false,
+        "hint": "UNDP deals with development, not health definitions.",
+        "explanation": "UNDP addresses development issues but not direct health definitions.",
+        "kidExplanation": "UNDP works on building things and helping countries, not health definitions.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "D",
+        "text": "UNICEF",
+        "isCorrect": false,
+        "hint": "This group focuses on children.",
+        "explanation": "UNICEF’s main role is child welfare, not defining health universally.",
+        "kidExplanation": "UNICEF helps kids, but they didn’t write the health definition.",
+        "explanationLevel": "basic"
+      }
+    ]
+  },
+  {
+    "id": "env005",
+    "prepType": "MB1 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "The man-made environment includes:",
+    "tags": ["environment", "man-made", "artificial environment"],
+    "relatedConcept": "Built environment",
+    "reference": "Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "2025",
+    "sourceType": "lecture notes",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "Forests",
+        "isCorrect": false,
+        "hint": "Forests are natural.",
+        "explanation": "Forests are part of the natural environment.",
+        "kidExplanation": "Forests grow on their own, not made by people.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "B",
+        "text": "Houses",
+        "isCorrect": true,
+        "hint": "Think of human-built structures.",
+        "explanation": "Houses and roads are part of the artificial environment built by humans.",
+        "kidExplanation": "People build houses, so they are man-made.",
+        "advancedExplanation": "The built environment includes infrastructure like houses, roads, and cities.",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "C",
+        "text": "Oceans",
+        "isCorrect": false,
+        "hint": "Oceans are natural water bodies.",
+        "explanation": "Oceans exist naturally and are not man-made.",
+        "kidExplanation": "Oceans are big water places made by nature, not people.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "D",
+        "text": "Rivers",
+        "isCorrect": false,
+        "hint": "Rivers are natural flows of water.",
+        "explanation": "Rivers are part of the natural environment.",
+        "kidExplanation": "Rivers flow naturally, not built by humans.",
+        "explanationLevel": "basic"
+      }
+    ]
+  },
+  {
+    "id": "env006",
+    "prepType": "MB1 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "The social environment comprises:",
+    "tags": ["environment", "social", "culture"],
+    "relatedConcept": "Social determinants of health",
+    "reference": "Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "2025",
+    "sourceType": "lecture notes",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "Climate and geography",
+        "isCorrect": false,
+        "hint": "This belongs to the physical environment.",
+        "explanation": "Climate and geography are physical, not social, factors.",
+        "kidExplanation": "Weather and land are not social things.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "B",
+        "text": "Laws and customs",
+        "isCorrect": true,
+        "hint": "Think of human behavior and rules.",
+        "explanation": "The social environment includes culture, law, and social systems.",
+        "kidExplanation": "Social means rules and how people live together.",
+        "advancedExplanation": "Social determinants like education, law, and culture strongly influence health outcomes.",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "C",
+        "text": "Rivers and lakes",
+        "isCorrect": false,
+        "hint": "These are physical environmental features.",
+        "explanation": "Rivers and lakes are natural resources, not social structures.",
+        "kidExplanation": "Water bodies are part of nature, not social life.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "D",
+        "text": "Pathogens and insects",
+        "isCorrect": false,
+        "hint": "These belong to the biological environment.",
+        "explanation": "Pathogens and insects are biological, not social, factors.",
+        "kidExplanation": "Germs and insects are living things, not social rules.",
+        "explanationLevel": "basic"
+      }
+    ]
+  },
+  {
+    "id": "env007",
+    "prepType": "MB1 Environmental Health",
+    "subject": "Environmental Health",
+    "topic": "Introduction to Environmental Health",
+    "difficulty": "easy",
+    "type": "multiple_choice_single_answer",
+    "question": "Which of the following diseases is related to poor environmental sanitation?",
+    "tags": ["diseases", "sanitation", "environment"],
+    "relatedConcept": "Environmental sanitation and disease",
+    "reference": "Omotara, Environmental Health Lecture Notes",
+    "timeLimitSeconds": 30,
+    "year": "2025",
+    "sourceType": "lecture notes",
+    "marks": 1,
+    "options": [
+      {
+        "label": "A",
+        "text": "Malaria",
+        "isCorrect": true,
+        "hint": "Think of mosquitoes and stagnant water.",
+        "explanation": "Malaria is linked to poor drainage and mosquito breeding.",
+        "kidExplanation": "Dirty water lets mosquitoes grow, and they cause malaria.",
+        "advancedExplanation": "Environmental sanitation interventions like drainage systems reduce vector-borne diseases such as malaria.",
+        "explanationLevel": "advanced"
+      },
+      {
+        "label": "B",
+        "text": "Diabetes",
+        "isCorrect": false,
+        "hint": "Diabetes is metabolic, not sanitation-related.",
+        "explanation": "Diabetes results from metabolic and lifestyle issues, not sanitation.",
+        "kidExplanation": "Diabetes comes from sugar problems, not dirty water or waste.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "C",
+        "text": "Tuberculosis",
+        "isCorrect": false,
+        "hint": "TB is airborne.",
+        "explanation": "TB spreads through air, not directly linked to sanitation.",
+        "kidExplanation": "TB is spread by coughing, not by dirty places.",
+        "explanationLevel": "basic"
+      },
+      {
+        "label": "D",
+        "text": "Asthma",
+        "isCorrect": false,
+        "hint": "Asthma is triggered by allergens.",
+        "explanation": "Asthma is not typically linked to sanitation but air quality and allergens.",
+        "kidExplanation": "Asthma comes from dust and allergies, not sanitation.",
+        "explanationLevel": "basic"
+      }
+    ]
+  }
+]
+
+

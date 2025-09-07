@@ -1,0 +1,139 @@
+[
+    {
+      "term": "Action potential",
+      "definition": "A rapid, temporary change in a membrane potential caused by the movement of ions across a cell membrane.",
+      "keywords": ["rapid", "temporary", "membrane potential", "movement", "ions", "cell membrane"],
+      "synonyms": {
+        "rapid": ["quick", "sudden"],
+        "temporary": ["short-lived", "brief"],
+        "movement": ["shift", "flow"],
+        "membrane potential": ["electrical charge", "voltage"]
+      },
+      "difficulty_levels": {
+        "easy": {
+          "hints": true,
+          "voice_input": true,
+          "lenient_scoring": true
+        },
+        "medium": {
+          "hints": true,
+          "voice_input": false,
+          "lenient_scoring": false
+        },
+        "advanced": {
+          "hints": false,
+          "voice_input": false,
+          "strict_scoring": true
+        }
+      }
+    },
+    {
+      "term": "Osmosis",
+      "definition": "The movement of water molecules from a region of lower solute concentration to a region of higher solute concentration across a semipermeable membrane.",
+      "keywords": ["water", "movement", "lower solute concentration", "higher solute concentration", "semipermeable membrane"],
+      "synonyms": {
+        "movement": ["flow", "shift"],
+        "water": ["H2O"],
+        "semipermeable": ["selectively permeable"]
+      },
+      "difficulty_levels": {
+        "easy": {
+          "hints": true,
+          "voice_input": true,
+          "lenient_scoring": true
+        },
+        "medium": {
+          "hints": true,
+          "voice_input": false,
+          "lenient_scoring": false
+        },
+        "advanced": {
+          "hints": false,
+          "voice_input": false,
+          "strict_scoring": true
+        }
+      }
+    },
+    {
+      "term": "Neurotransmitter",
+      "definition": "A chemical substance that transmits signals across a synapse from one neuron to another.",
+      "keywords": ["chemical", "transmits", "signals", "synapse", "neuron"],
+      "synonyms": {
+        "signals": ["messages", "impulses"],
+        "transmits": ["carries", "passes"],
+        "synapse": ["junction", "gap"]
+      },
+      "difficulty_levels": {
+        "easy": {
+          "hints": true,
+          "voice_input": true,
+          "lenient_scoring": true
+        },
+        "medium": {
+          "hints": true,
+          "voice_input": false,
+          "lenient_scoring": false
+        },
+        "advanced": {
+          "hints": false,
+          "voice_input": false,
+          "strict_scoring": true
+        }
+      }
+    },
+    {
+      "term": "Mitosis",
+      "definition": "The process of cell division that results in two identical daughter cells, each with the same number of chromosomes as the parent cell.",
+      "keywords": ["cell division", "daughter cells", "identical", "chromosomes", "parent cell"],
+      "synonyms": {
+        "division": ["splitting", "separation"],
+        "identical": ["same", "replica"],
+        "chromosomes": ["genetic material", "DNA strands"]
+      },
+      "difficulty_levels": {
+        "easy": {
+          "hints": true,
+          "voice_input": true,
+          "lenient_scoring": true
+        },
+        "medium": {
+          "hints": true,
+          "voice_input": false,
+          "lenient_scoring": false
+        },
+        "advanced": {
+          "hints": false,
+          "voice_input": false,
+          "strict_scoring": true
+        }
+      }
+    },
+    {
+      "term": "Endocytosis",
+      "definition": "The process by which cells take in substances from the outside environment by engulfing them in a vesicle.",
+      "keywords": ["cells", "take in", "substances", "environment", "vesicle"],
+      "synonyms": {
+        "take in": ["absorb", "ingest"],
+        "substances": ["materials", "molecules"],
+        "vesicle": ["bubble", "sac"]
+      },
+      "difficulty_levels": {
+        "easy": {
+          "hints": true,
+          "voice_input": true,
+          "lenient_scoring": true
+        },
+        "medium": {
+          "hints": true,
+          "voice_input": false,
+          "lenient_scoring": false
+        },
+        "advanced": {
+          "hints": false,
+          "voice_input": false,
+          "strict_scoring": true
+        }
+      }
+    }
+  ]
+  

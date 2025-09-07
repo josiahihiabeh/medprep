@@ -1,0 +1,33 @@
+[
+    {
+      "id": "viva_001",
+      "question": "Describe the rotator cuff muscles and their functions.",
+      "keywords": ["supraspinatus", "infraspinatus", "teres minor", "subscapularis", "shoulder", "rotation", "stabilize"],
+      "difficulty": "easy"
+    },
+    {
+      "id": "viva_002",
+      "question": "What is the significance of the blood-brain barrier?",
+      "keywords": ["protect", "brain", "toxins", "selective permeability", "homeostasis"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "viva_003",
+      "question": "Explain the cardiac cycle in your own words.",
+      "keywords": ["systole", "diastole", "atria", "ventricles", "contraction", "relaxation"],
+      "difficulty": "medium"
+    },
+    {
+      "id": "viva_004",
+      "question": "How does the kidney regulate blood pressure?",
+      "keywords": ["renin", "angiotensin", "aldosterone", "sodium", "water", "blood volume"],
+      "difficulty": "hard"
+    },
+    {
+      "id": "viva_005",
+      "question": "What happens during depolarization of a neuron?",
+      "keywords": ["sodium", "channels", "influx", "membrane potential", "threshold"],
+      "difficulty": "medium"
+    }
+  ]
+  
