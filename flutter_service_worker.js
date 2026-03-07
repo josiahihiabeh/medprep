@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "c3964f0bf65446d016cb5e0d61aeefc0",
 ".git/config": "4ba48a3f7185940ac8c19c970974800a",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -127,6 +128,9 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "c3964f0bf65446d016cb5e0d61aeefc0",
 ".git/refs/heads/main": "0165da1f0cc67f4e434455547c20010f",
 ".git/refs/remotes/origin/main": "0165da1f0cc67f4e434455547c20010f",
 "assets/AssetManifest.bin": "5e60f00c4bc7ec143f12567ae9db781c",
+=======
+const RESOURCES = {"assets/AssetManifest.bin": "5e60f00c4bc7ec143f12567ae9db781c",
+>>>>>>> 360de17 (Update code)
 "assets/AssetManifest.bin.json": "a28b23924ec281d3213b71c84827e049",
 "assets/AssetManifest.json": "1a445a712b5acf24913264b0b30b976f",
 "assets/assets/data/definitions.json": "c1e64d7f7f43d3360ac57b1716d2d696",
@@ -144,7 +148,11 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "c3964f0bf65446d016cb5e0d61aeefc0",
 "assets/assets/images/splash_logo.png": "b840b70d0fb6f9ed36a68e0788a2c9d8",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "dfd3354fea8d23633db56c96b095f2d0",
+<<<<<<< HEAD
 "assets/NOTICES": "92656b36081ad30260c0b377ce9bb1dd",
+=======
+"assets/NOTICES": "cfe6533571300d89f659694ad11e7ba3",
+>>>>>>> 360de17 (Update code)
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "66177750aff65a66cb07bb44b8c6422b",
@@ -157,16 +165,29 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "c3964f0bf65446d016cb5e0d61aeefc0",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
 "canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
+<<<<<<< HEAD
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "flutter_bootstrap.js": "7f4feb514911b34815bb54f2af2a2a4a",
+=======
+"favicon.ico": "968bfd2ccbec9ad9447bc7a8adf02e05",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"flutter.js": "f393d3c16b631f36852323de8e583132",
+"flutter_bootstrap.js": "fa17c0ca05f71980a5cfe399f9134303",
+>>>>>>> 360de17 (Update code)
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "d1345d1cc7ff7173a9108e2b5134d4e5",
 "/": "d1345d1cc7ff7173a9108e2b5134d4e5",
 "main.dart.js": "7f586bf95194eeb16e5d10b67d582eea",
+=======
+"index.html": "1caa07b197ce5c03b0e55c6d08d75c42",
+"/": "1caa07b197ce5c03b0e55c6d08d75c42",
+"main.dart.js": "81f2dda4f5ad0aa1c41cf9c02d5e7d6d",
+>>>>>>> 360de17 (Update code)
 "manifest.json": "e8a0de710d3447a1ea2af217493d490b",
 "splash/img/dark-1x.png": "00fa7ab86d98c348446eee65801fd0e6",
 "splash/img/dark-2x.png": "835ef995fe91174f78f853dcc5141037",

@@ -7858,6 +7858,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 flutter_tts
 
 MIT License
@@ -7883,6 +7884,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 360de17 (Update code)
 freetype2
 
 Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
